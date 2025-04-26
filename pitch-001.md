@@ -22,7 +22,7 @@ Trunk (Self, 1st Person): From the Nonself, the Self emerges: the I. It is the f
 
 Branching (Boundaries, 2nd Person): The Self does not exist in isolation. Boundaries emerge as the Self confronts the You: the second person, the mirror and the wall. Boundaries define what is Self and what is not — they are the first articulation of freedom and constraint.
 
-Fractal-Branching (Friend, Foe, Other): Each boundary encounter fractures into relational triads: Friend (Cooperative equilibrium), Foe (Adversarial equilibrium), Other (Negotiable/transactional emergence). These patterns repeat recursively across scales — from individual to civilization — creating the complex lattice of human history.
+Fractal-Branching (Friend, Foe, Other): Each boundary encounter [fractures into relational triads](https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem): Friend (Cooperative equilibrium), Foe (Adversarial equilibrium), Other (Negotiable/transactional emergence). These patterns repeat recursively across scales — from individual to civilization — creating the complex lattice of human history.
 
 Canopy (Flourishing): Through countless iterations of Friend, Foe, and Other relations, the canopy of flourishing is born: societies, cultures, sciences, arts, myths. The canopy both shelters and seeds future cycles.
 
